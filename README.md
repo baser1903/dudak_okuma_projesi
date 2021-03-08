@@ -6,18 +6,17 @@ Pekala, proje hakkında fikir verecek, video girdiğimiz, çerçeveler aldığı
 
 İçindekiler
 =================
-
 <!--ts-->
-   * [CNN kullanarak Otomatik Dudak okuma] (# cnn kullanarak otomatik dudak okuma)
-   * [Başlarken] (# başlarken)
-   * [İçindekiler] (# içindekiler)
-   * [Kitaplıklar] (# kitaplık)
-   * [Veri Kümesi] (# veri kümesi)
-   * [Model] (# model)
-   * [Sonuç ve Analiz] (# sonuç ve analiz)
-   * [Genel Uygulama] (# genel uygulama)
-   * [Sonuç] (# sonuç)
-   * [Gelecek Kapsam] (# gelecek-kapsam)
+   * [CNN kullanarak Otomatik Dudak okuma](#cnn-kullanarak-otomatik-dudak-okuma)
+   * [Başlarken](#başlarken)
+   * [İçindekiler](#içindekiler)
+   * [Kitaplıklar](#kitaplıklar)
+   * [Veri Kümesi](#veri-kümesi)
+   * [Model](#model)
+   * [Sonuç ve Analiz](#sonuç-ve-analiz)
+   * [Genel Uygulama](#genel-uygulama)
+   * [Sonuç](#sonuç)
+   * [Gelecek Kapsam](#gelecek-kapsam)
 <!--te-->
 
 # Kitaplıklar
@@ -122,6 +121,7 @@ history = model.fit_generator (generator = train_generator,
 ```
 Model daha sonra yukarıda gösterildiği gibi epochs = 50 ve parti boyutu = 20 ile donatılmıştır. Sonuç ve Analiz aşağıda tartışılmaktadır.
 <br/>
+# Sonuç ve Analiz
 Model iyi bir eğitim doğrulama doğruluğu göstermektedir. Bu en iyi model değil ama oldukça iyi bir model. Karışıklık matrisi aşağıda gösterildiği gibidir:
 
 
