@@ -47,7 +47,7 @@ Yani genel olarak 3400 resmimiz var (her biri 10 kez 20 nesne söyleyen 17 konu�
 # Model
 Veri kümesini doğru biçimde aldıktan sonra, sonraki adım Uygulama Modeli'dir.
 <br/>
-Modelin tamamı ve uygulaması, modeli oluşturduğumuz [final.ipynb] (final.ipynb) dosyasındadır. Dosyada Görüntü veri üreteci, çeşitli CNN katmanları, analiz bölümü bulunmaktadır.
+Modelin tamamı ve uygulaması, modeli oluşturduğumuz [final.ipynb](final.ipynb) dosyasındadır. Dosyada Görüntü veri üreteci, çeşitli CNN katmanları, analiz bölümü bulunmaktadır.
 <br/>
 Model şu şekildedir:
 ```
@@ -126,7 +126,7 @@ Model iyi bir eğitim doğrulama doğruluğu göstermektedir. Bu en iyi model de
 
 
 # Genel Uygulama
-Genel uygulama, bir GUI açan app.py dosyasını çalıştırıyor. Dudak okumak istediğimiz videoyu seçebiliriz. Bu video sesli olabilir veya gürültülü bir ortamdan olabilir.
+Genel uygulama, bir uygulama penceresini açan Uygulama.py dosyasını çalıştırıyor. Dudak okumak istediğimiz videoyu seçebiliriz. Bu video sesli olabilir veya gürültülü bir ortamdan olabilir.
 Sistem, kareleri videodan çıkarır, yani aslında görüntü dizisini alır. Bu, onu tek bir görüntü halinde birleştirecek ve 224 * 224 olarak yeniden boyutlandıracaktır. Daha sonra kaydedilen modele aktarılır ve sonuç, GUI'nin kendisindeki metin tahminidir.
 
 # Sonuç
