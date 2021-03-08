@@ -47,7 +47,7 @@ Yani genel olarak 3400 resmimiz var (her biri 10 kez 20 nesne söyleyen 17 konu�
 # Model
 Veri kümesini doğru biçimde aldıktan sonra, sonraki adım Uygulama Modeli'dir.
 <br/>
-Modelin tamamı ve uygulaması, modeli oluşturduğumuz [Model.ipynb](model.ipynb) dosyasındadır. Dosyada Görüntü veri üreteci, çeşitli CNN katmanları, analiz bölümü bulunmaktadır.
+Modelin tamamı ve uygulaması, modeli oluşturduğumuz [Model.ipynb](Model.ipynb) dosyasındadır. Dosyada Görüntü veri üreteci, çeşitli CNN katmanları, analiz bölümü bulunmaktadır.
 <br/>
 Model şu şekildedir:
 ```
