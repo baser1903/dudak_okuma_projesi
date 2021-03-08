@@ -28,7 +28,7 @@ Pillow: pip Install Pillow
 Numpy: pip install numpy
 Tensorflow: pip install tensorflow-gpu
 ```
-Sürümlerde belirsizlik olabileceğinden kitaplıkları yüklerken hatalar meydana gelebilir. Bu yüzden sürümü değiştirmeyi kontrol edin. Ayrıca modeli google colab'da eğitmek için tensorflow-gpu kullandım. Yani bir kolab kullanılabilir, oldukça iyidir.
+Sürümlerde belirsizlik olabileceğinden kitaplıkları yüklerken hatalar meydana gelebilir. Bu yüzden sürümü değiştirmeyi kontrol edin. Ayrıca modeli google colab'da eğitmek için tensorflow-gpu kullandım. Yani bir colab kullanılabilir, oldukça iyidir.
 
 # Veri Kümesi
 Herhangi bir makine öğrenimi problemi için en önemli şey veridir. Verileri 15 kişiden(7 Erkek 8 Kadın) oluşturduk. Veri Kümesi, her nesnede 10 kez 15 konuşmacı tarafından söylenen 10 kelime ve 10 ifadeden oluşur.
