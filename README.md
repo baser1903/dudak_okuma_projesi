@@ -133,4 +133,4 @@ Sistem, kareleri videodan çıkarır, yani aslında görüntü dizisini alır. B
 Yani bu giriş seviyesi için oldukça iyi bir proje. Ayrıca belirsizlik, sınırlı veri kümesi nedeniyle yeni yüzler algılandığında yaşanan sorunlar gibi bazı sorunlar ortaya çıkmaktadır. Ayrıca bilinen yüzlerle uyumludur. Bu yüzden çalışmak için oldukça iyi bir proje.
 
 # Gelecek Kapsam
-Bu proje gerçek zamanlı dudak okuma uygulanarak genişletilebilir, bu veri setine daha fazla yüz eklenerek sağlanabilir. İngilizce dilindeki belirsizlik, bazı NLP ve LSTM / RNN teknikleri eklenerek de ele alınabilir.
+Bu proje gerçek zamanlı dudak okuma uygulanarak genişletilebilir, bu veri setine daha fazla yüz eklenerek sağlanabilir. Türkçe dilindeki birbirine yakın kelimeler için, bazı NLP ve LSTM / RNN teknikleri eklenerek de ele alınabilir.
