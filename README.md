@@ -2,7 +2,7 @@
 Bu, aslında 10 kelime ve 10 kelime öbeği konuşan insanları sınıflandıran küçük bir projedir. Giriş bir videodur ve makine kelimeyi / ifadeyi video karelerindeki yüz ve dudak hareketlerine göre 20 nesneden sınıflandıracaktır.
 
 # Başlarken
-Pekala, proje hakkında fikir verecek, video girdiğimiz, çerçeveler aldığımız, birleştirdiğimiz, yeniden boyutlandırdığımız, modele beslediğimiz, sınıflandırdığımız bir GUI (Uygulama.py) var. Bütün bunlar aşağıda açıklanmıştır.
+Proje hakkında fikir verecek olursam, video girdiğimiz, çerçeveler aldığımız, birleştirdiğimiz, yeniden boyutlandırdığımız, modele beslediğimiz, sınıflandırdığımız bir GUI (Uygulama.py) var. Bütün bunlar aşağıda açıklanmıştır.
 
 İçindekiler
 =================
